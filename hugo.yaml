@@ -1,0 +1,68 @@
+baseURL: https://pjainish.github.io/
+languageCode: en-us
+title: Jainish Patel
+theme: PaperMod
+env: production
+enableRobotsTXT: true
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 50
+
+taxonomies:
+   tag : tags
+   category : categories
+
+params:
+
+  math: true
+
+  homeInfoParams:
+    Title: Welcome to Jainish Patel's Log
+    Content: >
+      Hi ! This is Jainish Patel, Call sign "Frostbite". This blog is my digital playground where I dump my brain's latest discoveries and musings.
+      Fair warning: the coherence of my posts is directly proportional to how much coffee I've had.
+      Side effects may include sudden urges to build particle accelerators in your basement.
+      Don't panic, that's just science happening. Buckle up, keep your mind open, and remember: in this corner of the internet, gravity is just a suggestion !
+
+  label:
+    icon: "/assets/images/favicon.png"
+
+  assets:
+    favicon: "/assets/images/favicon.png"
+    favicon16x16: "/assets/images/favicon.png"
+    favicon32x32: "/assets/images/favicon.png"
+    apple_touch_icon: "/assets/images/favicon.png"
+    safari_pinned_tab: "/assets/images/favicon.png"
+
+  defaultTheme: dark
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

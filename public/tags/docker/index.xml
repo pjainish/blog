@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jainish Patel</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Jainish Patel</description>
+    <title>Docker on Jainish Patel</title>
+    <link>http://localhost:1313/tags/docker/</link>
+    <description>Recent content in Docker on Jainish Patel</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2024 20:33:41 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction to Docker and Containerization</title>
-      <link>http://localhost:1313/posts/introduction-to-docker/</link>
-      <pubDate>Fri, 20 Dec 2024 20:33:41 +0530</pubDate>
-      <guid>http://localhost:1313/posts/introduction-to-docker/</guid>
-      <description>&lt;h2 id=&#34;introduction-to-containerization&#34;&gt;Introduction to Containerization&lt;/h2&gt;
-&lt;h3 id=&#34;definition-and-concept&#34;&gt;Definition and Concept&lt;/h3&gt;
-&lt;p&gt;Containerization is a lightweight and portable way to deploy applications, ensuring that they run consistently across different environments. Unlike virtualization, which involves running multiple virtual machines (VMs) on a single physical server, each with its own operating system, containerization shares the host system’s OS kernel. This approach makes containers lighter, faster, and more efficient in resource utilization.&lt;/p&gt;
-&lt;h3 id=&#34;history-and-evolution&#34;&gt;History and Evolution&lt;/h3&gt;
-&lt;p&gt;Containerization has its roots in the early 2000s with the introduction of Linux containers (LXC). However, it wasn&amp;rsquo;t until the release of Docker in 2013 that containerization gained widespread adoption. Docker simplified the process of creating, deploying, and managing containers, making it a cornerstone of modern application development and deployment.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 20 Dec 2024 15:47:32 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Docker Commands</title>
       <link>http://localhost:1313/posts/basic-docker-commands/</link>
