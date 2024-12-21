@@ -1,39 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tutorials on Jainish Patel</title>
-    <link>http://localhost:1313/tags/tutorials/</link>
-    <description>Recent content in Tutorials on Jainish Patel</description>
-    <generator>Hugo -- 0.134.3</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2024 15:47:32 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Basic Docker Commands</title>
-      <link>http://localhost:1313/posts/basic-docker-commands/</link>
-      <pubDate>Fri, 20 Dec 2024 15:47:32 +0530</pubDate>
-      <guid>http://localhost:1313/posts/basic-docker-commands/</guid>
-      <description>&lt;p&gt;Docker and Docker Compose are powerful tools for containerization and orchestration, simplifying the process of developing, deploying, and managing applications. Here is a detailed guide to the various commands you will need to manage your Docker and Docker Compose environments.&lt;/p&gt;
-&lt;h3 id=&#34;docker-management-commands&#34;&gt;Docker Management Commands&lt;/h3&gt;
-&lt;p&gt;These commands are essential for managing and understanding your Docker setup.&lt;/p&gt;
-&lt;h4 id=&#34;general-commands&#34;&gt;General Commands&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;code&gt;docker --help&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Displays help for the Docker CLI and its subcommands. This is a great starting point if you need to understand the available commands and their options.&lt;/li&gt;
-&lt;li&gt;Example: &lt;code&gt;docker --help&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;code&gt;docker -d&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How To Install Docker on Ubuntu, Windows, and macOS: A Comprehensive Guide</title>
-      <link>http://localhost:1313/posts/how-to-install-docker/</link>
-      <pubDate>Fri, 20 Dec 2024 15:47:32 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-install-docker/</guid>
-      <description>Master containerized applications with Docker on Linux, Windows &amp;amp; MacOS. Work effectively with images, containers, and Docker repositories.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tutorials on Jainish Patel</title><link>https://pjainish.github.io/tags/tutorials/</link><description>Recent content in Tutorials on Jainish Patel</description><generator>Hugo -- 0.134.3</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 15:47:32 +0530</lastBuildDate><atom:link href="https://pjainish.github.io/tags/tutorials/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Docker Commands</title><link>https://pjainish.github.io/posts/basic-docker-commands/</link><pubDate>Fri, 20 Dec 2024 15:47:32 +0530</pubDate><guid>https://pjainish.github.io/posts/basic-docker-commands/</guid><description>&lt;p>Docker and Docker Compose are powerful tools for containerization and orchestration, simplifying the process of developing, deploying, and managing applications. Here is a detailed guide to the various commands you will need to manage your Docker and Docker Compose environments.&lt;/p>
+&lt;h3 id="docker-management-commands">Docker Management Commands&lt;/h3>
+&lt;p>These commands are essential for managing and understanding your Docker setup.&lt;/p>
+&lt;h4 id="general-commands">General Commands&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;code>docker --help&lt;/code>&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Displays help for the Docker CLI and its subcommands. This is a great starting point if you need to understand the available commands and their options.&lt;/li>
+&lt;li>Example: &lt;code>docker --help&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;code>docker -d&lt;/code>&lt;/strong>:&lt;/p></description></item><item><title>How To Install Docker on Ubuntu, Windows, and macOS: A Comprehensive Guide</title><link>https://pjainish.github.io/posts/how-to-install-docker/</link><pubDate>Fri, 20 Dec 2024 15:47:32 +0530</pubDate><guid>https://pjainish.github.io/posts/how-to-install-docker/</guid><description>Master containerized applications with Docker on Linux, Windows &amp;amp; MacOS. Work effectively with images, containers, and Docker repositories.</description></item></channel></rss>
