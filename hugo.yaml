@@ -15,9 +15,9 @@ menu:
       name: Categories
       url: /categories/
       weight: 20
-    - identifier: Top 100
-      name: Top 100
-      url: /posts/top-100/
+    - identifier: Films
+      name: Films
+      url: /posts/films/
       weight: 25
     - identifier: tags
       name: Tags
@@ -64,6 +64,11 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
+  comments: true
+
+services:
+  disqus:
+    shortname: disqus_3lTHnqVNEw
 
 outputs:
   home:
