@@ -6,6 +6,10 @@
     margin: var(--gap) 0 calc(var(--gap) * 2) 0;
 }
 
+.header {
+    margin-top: 10px;
+}
+
 .first-entry .entry-header {
     overflow: hidden;
     display: -webkit-box;
