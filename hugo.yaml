@@ -1,8 +1,9 @@
 baseURL: https://pjainish.github.io
 languageCode: en-us
-title: Jainish's Log
+title: Jainish Patel
 theme: PaperMod
 enableRobotsTXT: true
+env: production
 
 menu:
   main:
@@ -10,6 +11,10 @@ menu:
       name: Posts
       url: /
       weight: 10
+    - identifier: about
+      name: About
+      url: /about
+      weight: 15
     - identifier: categories
       name: Categories
       url: /categories/
@@ -42,12 +47,11 @@ params:
   author: Jainish Patel
 
   homeInfoParams:
-    Title: Welcome to Jainish's Log
+    Title: Hi, I'm Jainish Patel !
     Content: >
-      Hi ! This is Jainish Patel, Call sign "Frostbite". This blog is my digital playground where I dump my brain's latest discoveries and musings.
-      Fair warning: the coherence of my posts is directly proportional to how much coffee I've had.
-      Side effects may include sudden urges to build particle accelerators in your basement.
-      Don't panic, that's just science happening. Buckle up, keep your mind open, and remember: in this corner of the internet, gravity is just a suggestion !
+      I am an AI consultant and Lead Applied Engineer who builds recommendation systems and intelligent applications that solve real-world problems. 
+      When I'm not helping businesses transform with AI, you'll find me exploring connections between cognitive science, physics, and machine learning - or out 
+      climbing and running. I believe the best solutions come from understanding both the technology and the human side of every problem.
 
   socialIcons:
     - name: github
@@ -58,8 +62,6 @@ params:
       url: "https://x.com/jainish360"
     - name: rss
       url: "https://pjainish.github.io/index.xml"
-    - name: instagram
-      url: "https://www.instagram.com/jainish.360/"
 
   label:
     icon: "/assets/images/favicon.png"
